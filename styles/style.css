@@ -369,12 +369,13 @@ table tr td {
 }
 
 i {
-    border: 1px dotted var(--black-color);
+    background-color: var(--grey-color);
     padding: 7px;
     position: fixed;
     bottom: 0;
     right: 0;
     margin: 20px;
+    font-size: 1.3em;
 }
 
 i:hover {

@@ -1,6 +1,6 @@
 # Proyecto UFC
 
-> Este sitio web habla de la compañia estadounidense de artes marciales más grande del mundo, UFC. En esta vamos a enontrarnos con los campeones actuales, próximos eventos y ranking de los peleadores.
+> Este sitio web está dedicado a la UFC, la compañía de artes marciales más grande del mundo. En él, encontrarás información sobre los campeones actuales, los próximos eventos y el ranking de los peleadores, proporcionando una visión completa del mundo de las artes marciales mixtas (MMA) y sus figuras más destacadas.
 
 ### La pagina cuenta con:
 - Una barra de navegacion, la cual permitira navegar entre las distintas paginas.
